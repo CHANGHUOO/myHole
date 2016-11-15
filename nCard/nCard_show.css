@@ -1,0 +1,97 @@
+#Nav {
+  overflow: hidden;
+  text-align: center;
+  padding-top: 3.5%;
+  padding-bottom: 3.5%;
+}
+
+#Nav p{
+  float: left;
+  display: inline-block;
+  font-size: 28px;
+  margin: 0px;
+  margin-left: 2.7%;
+}
+
+#Nav h1 {
+  font-size: 40px;
+  margin: 0px;
+  display: inline-block;
+  text-align: center;
+}
+
+#Nav img {
+  width: 40px;
+  float: right;
+  display: inline-block;
+  margin-right: 2.7%;
+}
+
+#nCard_show {
+  width: 46%;
+  height: 56%;
+  background-color: #808080;
+  padding: 1.5% 4% 4.5% 4%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20%;
+  max-width: 445px;
+}
+
+#qrCode_upload {
+  width: 41%;
+  float: right;
+  margin-top: 4%;
+}
+
+#nCard_show h1 {
+  font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+}
+
+#nCard_show p {
+  font-family: 'Dosis', sans-serif;
+  color: #ffffff;
+  font-size: 26px;
+  text-align: right;
+}
+
+#name {
+  color: #ffffff;
+  font-size: 26px;
+  padding: 57% 0% 0% 0%;
+  text-align: right;
+}
+
+#position {
+  color: #c7c7c7;
+  font-size: 20px;
+  padding: 8% 0% 8% 0%;
+  text-align: right;
+}
+
+#tel {
+  margin: 0% 0% 8% 0%;
+}
+
+#tel h1 {
+  color: #c7c7c7;
+  font-size: 18px;
+  text-align: left;
+}
+
+#email {
+  margin: 0% 0% 12% 0%;
+}
+
+#email h1 {
+  color: #c7c7c7;
+  font-size: 18px;
+  text-align: left;
+}
+
+#company {
+  color: #ffffff;
+  font-size: 26px;
+  text-align: center;
+}
