@@ -1,8 +1,10 @@
 #Nav {
   overflow: hidden;
   text-align: center;
-  padding-top: 3.5%;
-  padding-bottom: 3.5%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  border-bottom: double;
+  border-bottom-color: #dddddd;
 }
 
 #Nav p{
@@ -94,4 +96,16 @@
   color: #ffffff;
   font-size: 26px;
   text-align: center;
+}
+
+#START{
+  text-align: center;
+}
+
+#START button{
+  font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+  font-size: 46px;
+  border-color: #222222;
+  padding: 3% 13% 3% 13%;
 }
