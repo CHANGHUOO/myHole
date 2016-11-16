@@ -1,32 +1,22 @@
 #Nav {
   overflow: hidden;
   text-align: center;
-  padding-top: 4%;
-  padding-bottom: 4%;
+  padding: 2.5% 2.8% 2.5% 2.8%;
   border-bottom: double;
   border-bottom-color: #dddddd;
 }
 
-#Nav p{
-  float: left;
-  display: inline-block;
-  font-size: 28px;
-  margin: 0px;
-  margin-left: 2.7%;
-}
 
 #Nav h1 {
   font-size: 40px;
   margin: 0px;
   display: inline-block;
-  text-align: center;
 }
 
 #Nav img {
   width: 40px;
   float: right;
   display: inline-block;
-  margin-right: 2.7%;
 }
 
 #nCard_show {
@@ -36,7 +26,7 @@
   padding: 1.5% 4% 4.5% 4%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 20%;
+  margin-top: 28%;
   max-width: 445px;
 }
 
@@ -101,11 +91,16 @@
 #START{
   text-align: center;
 }
+#START{
+  padding-top: 22%;
+  padding-bottom: 22%;
+}
 
 #START button{
   font-family: 'Lato', sans-serif;
   text-transform: uppercase;
   font-size: 46px;
   border-color: #222222;
-  padding: 3% 13% 3% 13%;
+  padding: 2% 10% 2% 10%;
+  background-color: inherit;
 }
