@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>浏览器对象</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=gkb"/>
+</head>
+<body>
+<h1>WELL DONE!</h1>
+<p id="sec" style="display: inline-block">5</p>
+<p style="display: inline-block"> sec back to home</p>
+<a style="display: inline-block" href="javascript:history.back();">back</a>
+
+
+<script type="text/javascript">
+
+  var s = document.getElementById("sec").innerHTML;
+  function back() {
+    if (s <= 0) {
+      window.history.back();
+    }
+  }
+  function update() {
+    s--;
+    document.getElementById("sec").innerHTML = s;
+    back();
+    setTimeout(update, 1000);
+  }
+
+  setTimeout(update, 1000);
+
+
+//  var backer = {
+//    s: document.getElementById("sec").innerHTML,
+//
+//    back: function () {
+//      if(this.s <= 0){
+//        window.history.back();
+//      }
+//    },
+//
+//    update: function () {
+//      this.s --;
+//      document.getElementById("sec").innerHTML = this.s;
+//      console.log(this.s);
+//      this.back();
+//      setTimeout(this.update,1000)
+//    }
+//  }
+//
+//  setTimeout(backer.update,1000)
+  //获取显示秒数的元素，通过定时器来更改秒数。
+  //通过window的location和history对象来控制网页的跳转。
+
+</script>
+</body>
+</html>
