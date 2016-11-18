@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca48c2af-c769-4492-9037-af2084e2fb35" name="Default" comment="" />
+    <list default="true" id="ca48c2af-c769-4492-9037-af2084e2fb35" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nCard/index.html" afterPath="$PROJECT_DIR$/nCard/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nCard/nCard_show.css" afterPath="$PROJECT_DIR$/nCard/nCard_show.css" />
+    </list>
     <ignored path="myHole.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -42,8 +46,13 @@
           <file leaf-file-name="nCard_show.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/nCard/nCard_show.css">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
                 <state relative-caret-position="510">
                   <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+=======
+                <state relative-caret-position="711">
+                  <caret line="95" column="20" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
+>>>>>>> origin/master
                   <folding />
                 </state>
               </provider>
@@ -60,6 +69,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -290,12 +302,18 @@
       <updated>1478954771894</updated>
       <workItem from="1478954773107" duration="13991000" />
       <workItem from="1479096082574" duration="25000" />
-      <workItem from="1479106923146" duration="7572000" />
+      <workItem from="1479106923146" duration="7807000" />
+      <workItem from="1479265615637" duration="9000" />
+      <workItem from="1479298469447" duration="1614000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="21976000" />
+=======
+    <option name="totallyTimeSpent" value="23446000" />
+>>>>>>> origin/master
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -344,6 +362,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nCard/nCard_show.css">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -368,6 +387,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/actions/.gitignore">
+=======
+>>>>>>> origin/master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -396,14 +417,22 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/nCard/nCard_show.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="711">
           <caret line="95" column="20" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
+=======
+    <entry file="file://$PROJECT_DIR$/nCard/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+>>>>>>> origin/master
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/actions/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -412,6 +441,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/variables.scss">
+=======
+    <entry file="file://$PROJECT_DIR$/nCard/nCard_show.css">
+>>>>>>> origin/master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -491,6 +523,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -515,21 +548,28 @@
         <state relative-caret-position="420">
           <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nCard/nCard_show.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+=======
+>>>>>>> origin/master
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nCard/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state relative-caret-position="180">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+>>>>>>> origin/master
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nCard/nCard_show.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="95" column="20" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
           <folding />
         </state>
       </provider>

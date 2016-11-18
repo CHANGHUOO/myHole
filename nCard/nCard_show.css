@@ -6,26 +6,17 @@
   border-bottom-color: #dddddd;
 }
 
-#Nav p{
-  float: left;
-  display: inline-block;
-  font-size: 28px;
-  margin: 0px;
-  margin-left: 2.7%;
-}
 
 #Nav h1 {
   font-size: 40px;
   margin: 0px;
   display: inline-block;
-  text-align: center;
 }
 
 #Nav img {
   width: 40px;
   float: right;
   display: inline-block;
-  margin-right: 2.7%;
 }
 
 #nCard_show {
@@ -35,7 +26,7 @@
   padding: 1.5% 4% 4.5% 4%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 20%;
+  margin-top: 28%;
   max-width: 445px;
 }
 
@@ -101,6 +92,10 @@
   padding-top: 22%;
   padding-bottom: 22%;
   text-align: center;
+}
+#START{
+  padding-top: 22%;
+  padding-bottom: 22%;
 }
 
 #START button{
